@@ -1,5 +1,44 @@
 [
   {
+    "id": "/listedco/listconews/sehk/2026/1120/2026112000082_c.htm",
+    "date": "2026-11-20",
+    "time": "08:53",
+    "stockName": "金石資本集團",
+    "stockCode": "01160",
+    "title": "交易所通告 - 短暫停牌",
+    "group": "新增停牌",
+    "nature": "短暫停牌",
+    "attention": [],
+    "category": "公告及通告 - [短暫停牌]",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000082_c.htm"
+  },
+  {
+    "id": "/listedco/listconews/sehk/2026/1120/2026112000022_c.pdf",
+    "date": "2026-11-20",
+    "time": "08:44",
+    "stockName": "聯康生物科技集團",
+    "stockCode": "00690",
+    "title": "短暫停牌",
+    "group": "新增停牌",
+    "nature": "短暫停牌",
+    "attention": [],
+    "category": "公告及通告 - [短暫停牌]",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000022_c.pdf"
+  },
+  {
+    "id": "/listedco/listconews/sehk/2026/1120/2026112000052_c.htm",
+    "date": "2026-11-20",
+    "time": "08:41",
+    "stockName": "聯康生物科技集團",
+    "stockCode": "00690",
+    "title": "交易所通告 - 短暫停牌",
+    "group": "新增停牌",
+    "nature": "短暫停牌",
+    "attention": [],
+    "category": "公告及通告 - [短暫停牌]",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112000052_c.htm"
+  },
+  {
     "id": "/listedco/listconews/sehk/2026/1120/2026112000002_c.pdf",
     "date": "2026-11-20",
     "time": "06:04",
