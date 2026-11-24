@@ -1,5 +1,31 @@
 [
   {
+    "id": "/listedco/listconews/sehk/2026/1124/2026112301477_c.pdf",
+    "date": "2026-11-24",
+    "time": "08:42",
+    "stockName": "金石資本集團",
+    "stockCode": "01160",
+    "title": "暫停買賣",
+    "group": "新增停牌",
+    "nature": "暫停買賣",
+    "attention": [],
+    "category": "公告及通告 - [短暫停牌]",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112301477_c.pdf"
+  },
+  {
+    "id": "/listedco/listconews/sehk/2026/1124/2026112400074_c.htm",
+    "date": "2026-11-24",
+    "time": "08:41",
+    "stockName": "金石資本集團",
+    "stockCode": "01160",
+    "title": "交易所通告 - 短暫停牌",
+    "group": "新增停牌",
+    "nature": "短暫停牌",
+    "attention": [],
+    "category": "公告及通告 - [短暫停牌]",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112400074_c.htm"
+  },
+  {
     "id": "/listedco/listconews/sehk/2026/1123/2026112301473_c.pdf",
     "date": "2026-11-23",
     "time": "20:16",
